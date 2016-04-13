@@ -1,0 +1,309 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AA572CAA1CBE001C003DEB92 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AA572CA91CBE001C003DEB92 /* main.m */; };
+		AA572CAD1CBE001C003DEB92 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AA572CAC1CBE001C003DEB92 /* AppDelegate.m */; };
+		AA572CB01CBE001C003DEB92 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AA572CAF1CBE001C003DEB92 /* ViewController.m */; };
+		AA572CB31CBE001C003DEB92 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA572CB11CBE001C003DEB92 /* Main.storyboard */; };
+		AA572CB51CBE001C003DEB92 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA572CB41CBE001C003DEB92 /* Assets.xcassets */; };
+		AA572CB81CBE001C003DEB92 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA572CB61CBE001C003DEB92 /* LaunchScreen.storyboard */; };
+		AA572CC01CBE261D003DEB92 /* 猫猫和狗.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA572CBF1CBE261D003DEB92 /* 猫猫和狗.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		AA572CA51CBE001C003DEB92 /* 修改系统tableview分割线.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "修改系统tableview分割线.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AA572CA91CBE001C003DEB92 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		AA572CAB1CBE001C003DEB92 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		AA572CAC1CBE001C003DEB92 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		AA572CAE1CBE001C003DEB92 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		AA572CAF1CBE001C003DEB92 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		AA572CB21CBE001C003DEB92 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		AA572CB41CBE001C003DEB92 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AA572CB71CBE001C003DEB92 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		AA572CB91CBE001C003DEB92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AA572CBF1CBE261D003DEB92 /* 猫猫和狗.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "猫猫和狗.jpg"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AA572CA21CBE001C003DEB92 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AA572C9C1CBE001C003DEB92 = {
+			isa = PBXGroup;
+			children = (
+				AA572CA71CBE001C003DEB92 /* 修改系统tableview分割线 */,
+				AA572CA61CBE001C003DEB92 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AA572CA61CBE001C003DEB92 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AA572CA51CBE001C003DEB92 /* 修改系统tableview分割线.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AA572CA71CBE001C003DEB92 /* 修改系统tableview分割线 */ = {
+			isa = PBXGroup;
+			children = (
+				AA572CBF1CBE261D003DEB92 /* 猫猫和狗.jpg */,
+				AA572CAB1CBE001C003DEB92 /* AppDelegate.h */,
+				AA572CAC1CBE001C003DEB92 /* AppDelegate.m */,
+				AA572CAE1CBE001C003DEB92 /* ViewController.h */,
+				AA572CAF1CBE001C003DEB92 /* ViewController.m */,
+				AA572CB11CBE001C003DEB92 /* Main.storyboard */,
+				AA572CB41CBE001C003DEB92 /* Assets.xcassets */,
+				AA572CB61CBE001C003DEB92 /* LaunchScreen.storyboard */,
+				AA572CB91CBE001C003DEB92 /* Info.plist */,
+				AA572CA81CBE001C003DEB92 /* Supporting Files */,
+			);
+			path = "修改系统tableview分割线";
+			sourceTree = "<group>";
+		};
+		AA572CA81CBE001C003DEB92 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				AA572CA91CBE001C003DEB92 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AA572CA41CBE001C003DEB92 /* 修改系统tableview分割线 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AA572CBC1CBE001C003DEB92 /* Build configuration list for PBXNativeTarget "修改系统tableview分割线" */;
+			buildPhases = (
+				AA572CA11CBE001C003DEB92 /* Sources */,
+				AA572CA21CBE001C003DEB92 /* Frameworks */,
+				AA572CA31CBE001C003DEB92 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "修改系统tableview分割线";
+			productName = "修改系统tableview分割线";
+			productReference = AA572CA51CBE001C003DEB92 /* 修改系统tableview分割线.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AA572C9D1CBE001C003DEB92 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = "马红涛";
+				TargetAttributes = {
+					AA572CA41CBE001C003DEB92 = {
+						CreatedOnToolsVersion = 7.2;
+					};
+				};
+			};
+			buildConfigurationList = AA572CA01CBE001C003DEB92 /* Build configuration list for PBXProject "修改系统tableview分割线" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AA572C9C1CBE001C003DEB92;
+			productRefGroup = AA572CA61CBE001C003DEB92 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AA572CA41CBE001C003DEB92 /* 修改系统tableview分割线 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AA572CA31CBE001C003DEB92 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AA572CC01CBE261D003DEB92 /* 猫猫和狗.jpg in Resources */,
+				AA572CB81CBE001C003DEB92 /* LaunchScreen.storyboard in Resources */,
+				AA572CB51CBE001C003DEB92 /* Assets.xcassets in Resources */,
+				AA572CB31CBE001C003DEB92 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AA572CA11CBE001C003DEB92 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AA572CB01CBE001C003DEB92 /* ViewController.m in Sources */,
+				AA572CAD1CBE001C003DEB92 /* AppDelegate.m in Sources */,
+				AA572CAA1CBE001C003DEB92 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		AA572CB11CBE001C003DEB92 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AA572CB21CBE001C003DEB92 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		AA572CB61CBE001C003DEB92 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AA572CB71CBE001C003DEB92 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		AA572CBA1CBE001C003DEB92 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		AA572CBB1CBE001C003DEB92 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AA572CBD1CBE001C003DEB92 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "修改系统tableview分割线/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "mht.----tableview---";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		AA572CBE1CBE001C003DEB92 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "修改系统tableview分割线/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "mht.----tableview---";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AA572CA01CBE001C003DEB92 /* Build configuration list for PBXProject "修改系统tableview分割线" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AA572CBA1CBE001C003DEB92 /* Debug */,
+				AA572CBB1CBE001C003DEB92 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AA572CBC1CBE001C003DEB92 /* Build configuration list for PBXNativeTarget "修改系统tableview分割线" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AA572CBD1CBE001C003DEB92 /* Debug */,
+				AA572CBE1CBE001C003DEB92 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AA572C9D1CBE001C003DEB92 /* Project object */;
+}
