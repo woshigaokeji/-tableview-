@@ -30,9 +30,6 @@
     [_DataSource addObject:@"猫猫和狗"];
     [_DataSource addObject:@"猫猫和狗"];
     
-    NSLog(@"哈哈哈哈!");
-    NSLog(@"github good ");
-    
 }
 
 
